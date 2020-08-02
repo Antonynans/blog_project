@@ -25,7 +25,7 @@ SECRET_KEY = 'ly#y9gp%hkra@wh&!w(cm+0kdu8y8-je5e_w0h18)n_h_tjyuo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*'] # asterisk to update ALLoWED_HOSTS to accept all domains
 
 
 # Application definition
